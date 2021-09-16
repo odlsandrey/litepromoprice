@@ -1,4 +1,0 @@
-itemadapter==0.1.1
-pyexcel==0.6.6
-openpyxl==3.0.7
-Scrapy==2.4.0
